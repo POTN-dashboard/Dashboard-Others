@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PB15 Pin=P1-6
+Removed Pin From Net: NetName=PC13 Pin=R1-1
+Removed Pin From Net: NetName=PB15 Pin=U2-28
+Added Pin To Net: NetName=PC13 Pin=P1-6
+Added Pin To Net: NetName=PB15 Pin=R1-1
+Added Pin To Net: NetName=PB15 Pin=U2-22
+Change Net Name : Old Net Name=PB15 New Net Name=PB11
+Added Room: Name=STM32_1_Sheet1

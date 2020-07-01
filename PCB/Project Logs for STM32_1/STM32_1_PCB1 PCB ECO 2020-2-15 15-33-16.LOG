@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NRST Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=R1-1
+Removed Pin From Net: NetName=NRST Pin=R1-2
+Removed Pin From Net: NetName=NRST Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Member From Class: ClassName=STM32_1_Sheet1 Member=C5
+Removed Member From Class: ClassName=STM32_1_Sheet1 Member=R1
+Removed Member From Class: ClassName=STM32_1_Sheet1 Member=S1
+Added Room: Name=STM32_1_Sheet1

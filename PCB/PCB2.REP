@@ -1,0 +1,75 @@
+Teardrop Report PCB2.PcbDoc
+On 2020/4/7 at 16:13:24
+
+Pads visited                : 50
+
+Vias visited                : 12
+
+Pad teardrops failed : 0
+
+Pad U6-1(102.722mm,80.81mm) on Top Layer
+Pad U6-2(103.1mm,79.31mm) on Top Layer
+Pad U6-3(102.722mm,77.81mm) on Top Layer
+Pad U6-2(105.894mm,79.285mm) on Top Layer
+Pad C4-2(104.08mm,84.94mm) on Top Layer
+Pad C4-1(102.429mm,84.94mm) on Top Layer
+Pad C3-1(104.8mm,82.91mm) on Top Layer
+Pad C3-2(102.641mm,82.91mm) on Top Layer
+Pad C2-2(103.751mm,75.68mm) on Top Layer
+Pad C2-1(102.1mm,75.68mm) on Top Layer
+Pad C1-1(103.6mm,73.8mm) on Top Layer
+Pad C1-2(101.441mm,73.8mm) on Top Layer
+Pad R12-2(98.18mm,88.09mm) on Top Layer
+Pad R12-1(99.831mm,88.09mm) on Top Layer
+Pad R13-2(98.18mm,89.7mm) on Top Layer
+Pad R13-1(99.831mm,89.7mm) on Top Layer
+Pad C15-2(108.819mm,81.54mm) on Top Layer
+Pad C15-1(110.47mm,81.54mm) on Top Layer
+Pad C16-1(96.15mm,91.06mm) on Top Layer
+Pad C16-2(96.15mm,93.219mm) on Top Layer
+Pad R14-1(93.95mm,93.23mm) on Top Layer
+Pad R14-2(93.95mm,91.071mm) on Top Layer
+Pad R17-2(99.76mm,91.649mm) on Top Layer
+Pad R17-1(99.76mm,93.3mm) on Top Layer
+Pad R15-2(110.491mm,77.2mm) on Top Layer
+Pad R15-1(108.84mm,77.2mm) on Top Layer
+Pad C17-2(112.1mm,88.41mm) on Top Layer
+Pad C17-1(110.449mm,88.41mm) on Top Layer
+Pad R16-1(110.451mm,90.41mm) on Top Layer
+Pad R16-2(112.61mm,90.41mm) on Top Layer
+Pad U3-5(107.68mm,88.68mm) on Top Layer
+Pad U3-6(107.68mm,89.95mm) on Top Layer
+Pad U3-7(107.68mm,91.22mm) on Top Layer
+Pad U3-8(107.68mm,92.49mm) on Top Layer
+Pad U3-4(102.18mm,88.68mm) on Top Layer
+Pad U3-3(102.18mm,89.95mm) on Top Layer
+Pad U3-2(102.18mm,91.22mm) on Top Layer
+Pad U3-1(102.18mm,92.49mm) on Top Layer
+Pad U5-6(113.04mm,81.75mm) on Top Layer
+Pad U5-4(113.04mm,76.67mm) on Top Layer
+Pad U5-5(113.04mm,79.21mm) on Top Layer
+Pad U4-1(98.65mm,81.75mm) on Top Layer
+Pad U4-3(98.65mm,76.67mm) on Top Layer
+Pad U4-2(98.65mm,79.21mm) on Top Layer
+Pad U5-4(113.04mm,76.67mm) on Bottom Layer
+Pad U5-6(113.04mm,81.75mm) on Bottom Layer
+Pad U5-5(113.04mm,79.21mm) on Bottom Layer
+Pad U4-3(98.65mm,76.67mm) on Bottom Layer
+Pad U4-2(98.65mm,79.21mm) on Bottom Layer
+Pad U4-1(98.65mm,81.75mm) on Bottom Layer
+
+Via teardrops failed : 0
+
+Via (108.819mm,83.701mm) from Top Layer to Bottom Layer
+Via (106mm,84.48mm) from Top Layer to Bottom Layer
+Via (104.34mm,73.08mm) from Top Layer to Bottom Layer
+Via (100.5mm,84.63mm) from Top Layer to Bottom Layer
+Via (96.561mm,89.319mm) from Top Layer to Bottom Layer
+Via (105.97mm,92.49mm) from Top Layer to Bottom Layer
+Via (93.91mm,89.5mm) from Top Layer to Bottom Layer
+Via (111.89mm,79.2mm) from Top Layer to Bottom Layer
+Via (111.92mm,81.7mm) from Top Layer to Bottom Layer
+Via (99.76mm,76.65mm) from Top Layer to Bottom Layer
+Via (99.74mm,79.25mm) from Top Layer to Bottom Layer
+Via (99.72mm,81.73mm) from Top Layer to Bottom Layer
+

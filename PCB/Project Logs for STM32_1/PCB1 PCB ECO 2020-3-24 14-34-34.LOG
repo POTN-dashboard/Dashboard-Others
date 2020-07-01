@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PC13 Pin=R1-1
+Added Pin To Net: NetName=PC13 Pin=P1-6
+Added Pin To Net: NetName=PB11 Pin=R1-1
+Added Pin To Net: NetName=PB11 Pin=U2-22
+Added Net: Name=PB11
+Added Member To Class: ClassName=STM32_1_Sheet1 Member=Component J1 TYPE-C-31-M-12
+Added Room: Name=STM32_1_Sheet1

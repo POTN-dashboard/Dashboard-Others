@@ -1,0 +1,2 @@
+Remove Pin=P1-6 From Net=PC13
+Add Pin To Net: Pin=R1-1 Old Net=PB11 New Net=PC13

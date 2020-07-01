@@ -1,0 +1,86 @@
+记录一下自己用STM32完整开发一台双模机械键盘的过程(附代码和原理图)
+https://blog.csdn.net/BG2CRW/article/details/79475752
+
+STM32实现一个HID键盘
+https://blog.csdn.net/Jun626/article/details/87803569
+
+授人以渔 第三节：基于stm32f407实现usb键盘功能
+https://bbs.21ic.com/icview-1698372-1-1.html
+
+将uC/OS-III移植到CubeMX生成的HAL库工程中
+https://blog.csdn.net/lingsuifenfei123/article/details/66972711
+
+使用STM32 HAL库移植UCOSIII遇到的一些问题及其解决方法
+https://blog.csdn.net/u013984321/article/details/95219508
+
+STM32 USB HID复合设备 两个接口 键盘+数据传输 功能（本人写的一片博客）
+https://blog.csdn.net/weixin_42362902/article/details/104171585
+
+STM32固件升级详解（BootLoader）
+http://news.eeworld.com.cn/mcu/ic469960.html
+
+STM32串口IAP分享
+https://www.cnblogs.com/zhengnian/p/11531527.html
+
+
+关于STM32 IAP
+	
+
+stm32f103+FFT+OLED的音乐频谱制作（干货 只需三步即可）
+https://blog.csdn.net/mc_li/article/details/81364766
+
+
+Git使用教程：最详细、最傻瓜、最浅显、真正手把手教！
+https://blog.csdn.net/u011535541/article/details/83379151
+
+
+一小时手把手教你Git和Github
+https://www.cnblogs.com/pythonfor/p/11446566.html
+
+
+
+.gitignore文件配置：keil工程文件类型
+https://blog.csdn.net/u010160335/article/details/80043965
+
+Git忽略规则.gitignore梳理 - 散尽浮华 - 博客园
+https://www.cnblogs.com/wzjwffg/p/9884042.html
+
+【STM32】FLASH擦写+FLASH相关操作+注意事项
+https://blog.csdn.net/weixin_43444989/article/details/99999270
+
+MDK(KEIL5)如何生成.bin文件(亲测可用)
+https://blog.csdn.net/nx505j/article/details/80924902
+
+
+
+ST福利：如何使用STM32F103C8T6的后64KB flash
+https://zhuanlan.zhihu.com/p/72752458
+
+stm32 iAP成功跳转APP 但是没有执行
+https://www.amobbs.com/thread-5606964-1-1.html
+
+STM32F0 IAP (使用stm32CubeMX)
+https://blog.csdn.net/xy6zzz/article/details/49992367
+
+
+
+参考stm32官方的IAP项目移植的串口 IAP工程，基于HAL库实现，含有Ymodem协议，可以使用超级终端或者，SecuerCRT更新固件，后期计划做专用的上位机来更新固件
+https://gitee.com/zyzp/stm32UartIAP/blob/master/README.md
+https://www.cnblogs.com/memorypro/p/8166213.html
+
+
+STM32 Cube IDE 下实现 IAP —— (1) 程序跳转
+http://ibotx.com/?p=191
+
+STM32四行【跳转程序】引申出来的几条重要知识点
+https://blog.csdn.net/ybhuangfugui/article/details/99826869?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+stm32 堆和栈(stm32 Heap & Stack)【worldsing笔记】
+https://blog.csdn.net/slj_win/article/details/16906141
+
+
+stm32最简单的实现BootLoader
+https://blog.csdn.net/HES_C/article/details/80118805
+
+stm32 iAP成功跳转APP 但是没有执行
+https://www.amobbs.com/thread-5606964-1-1.html
